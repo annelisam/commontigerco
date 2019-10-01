@@ -9,23 +9,23 @@ html,body {
   h1,h2 {
     margin: 0.4em 0;
   }
-  h1 { font-size: 5em; 
+  h1 { font-size: 4.5em; 
   font-weight: 600;}
   h2 {
     color: #888;
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: 200;
     position: fixed;
     top: 50%;
   }
   a {
-      text-decoration: none;;
+      text-decoration-color: #888;
   }
   a:hover, a:visited:hover{
       color: #eee;
-      text-decoration: none;
+      text-decoration-color: #eee;
   }
   a:visited {
      color: #888; 
-     text-decoration: none;
+     text-decoration-color: #888;
   }
