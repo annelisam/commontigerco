@@ -20,6 +20,9 @@ html,body {
   }
   a, a:active {
       text-decoration-color: #888;
+      color: #888;
+      font-size: 2.5em;
+      font-weight: 200;
   }
   a:hover, a:visited:hover{
       color: #eee;
