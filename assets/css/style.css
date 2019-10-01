@@ -15,3 +15,14 @@ html,body {
     color: #888;
     font-size: 2em;
   }
+  a {
+      text-decoration: none;;
+  }
+  a:hover, a:visited:hover{
+      color: #eee;
+      text-decoration: none;
+  }
+  a:visited {
+     color: #888; 
+     text-decoration: none;
+  }
