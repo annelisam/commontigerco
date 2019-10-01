@@ -18,7 +18,7 @@ html,body {
     position: fixed;
     top: 50%;
   }
-  a {
+  a, a:active {
       text-decoration-color: #888;
   }
   a:hover, a:visited:hover{
